@@ -20,7 +20,7 @@ Note:
 ===========================================
 if you want to merge all the .csv files into a single file, this can be done in cmd by navigating to the file of all the .csv files and typing the following:
 
-copy *.csv fileName.csv
+copy *.csv [fileName].csv
 
 Dependencies are:
 
